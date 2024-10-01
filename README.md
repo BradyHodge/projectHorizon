@@ -120,5 +120,5 @@ npm install -g firebase-tools
 ## Step 6: Access your website and apply finishing touches
 
 1. After deployment, Firebase will provide you with a hosting URL. You can also set up a custom domain in the Firebase Console
-2. If you want the contact form to work, go to  [formspark](https://dashboard.formspark.io/sign-in) and create an account
-3. Crate a new form then follow the "How-To" instructons
+2. If you want the contact form to work, go to  [Formspark](https://dashboard.formspark.io/sign-in) and create an account
+3. Crate a new form then follow the "How-To" instructions
