@@ -1,4 +1,4 @@
-# Project Horizon
+# Set up a personal website
 
 ## Step 1: Install Node JS
 
