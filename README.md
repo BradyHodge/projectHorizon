@@ -1,3 +1,6 @@
+
+![Project Horizon](./thumb.png)
+
 # Set up a personal website
 
 ## Step 1: Install Node JS
@@ -15,7 +18,6 @@
    ```
 
 ### macOS
-
 
 #### Using the Official Installer
 
